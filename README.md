@@ -5,7 +5,7 @@ RNComponentDemo是基于React Native实现的对简单组件的封装示例，�
 ## Demo运行
 ```
 $ git clone https://github.com/ljunb/RNComponentDemo.git
-$ cd RNNewFeatureDemo
+$ cd RNComponentDemo
 $ npm install
 $ react-native run-ios/run-android
 ```
